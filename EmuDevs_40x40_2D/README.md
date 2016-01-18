@@ -1,3 +1,3 @@
 a simple maze 
 
-![](http://i.imgur.com/VoDYrRy.png)
+![](http://i.imgur.com/oWcqZz0.png)
